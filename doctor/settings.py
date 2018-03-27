@@ -25,7 +25,7 @@ SECRET_KEY = 'lw$w42b%bf24@72v4*(c2)0gx7mdokz9$ufj4gy9va8b$dem&q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [u'www.jygenius.cn']
 
 COUNT = 40
 
